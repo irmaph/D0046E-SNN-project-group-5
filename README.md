@@ -51,3 +51,5 @@ Use the SNN-Project discussion forum in Canvas and the scheduled live sessions t
 ## Remarks
 
 There is ongoing work to define and compute exact gradients of SNNs that do not rely on surrogate gradients, see for example [DelGrad](https://www.nature.com/articles/s41467-025-63120-y), [EventProp](https://www.nature.com/articles/s41598-021-91786-z), and [From Silicon to Spikes](https://arxiv.org/abs/2507.10568v2). The topic of gradient based optimisation of SNNs is partially controversial because the brain functions in a different way, and is remarkably resource efficient in comparison to deep learning hardware. We should not naively think that gradient-based optimisation is optimal for processors and architectures incorporating brain-like, physically instantiated adaptive processes. Instead, we should maintain an open mindset and systematically develop and compare different alternatives in searching for more resource efficient approaches to design learning machines.
+
+lol test
